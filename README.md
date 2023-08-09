@@ -1,6 +1,6 @@
 # Anticipez les besoins en comsommations des bâtiments
 
-Le projet a porté sur le nettoyage, l'analyse et la modélisation de la consommation en électricité et de l'émission en CO<sub>2</sub> de bâtiments.
+Le projet a porté sur le nettoyage, l'analyse et la modélisation de la consommation en énergie et de l'émission en CO<sub>2</sub> de bâtiments.
 
 Plusieurs modèles ont été utilisés :
 - DummyRegressor
